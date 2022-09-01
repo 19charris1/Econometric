@@ -1,2 +1,2 @@
-# Econometric
+# Econometrics
 econometrics class
